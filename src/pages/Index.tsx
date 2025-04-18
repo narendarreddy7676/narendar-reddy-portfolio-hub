@@ -1,8 +1,7 @@
-
 import Navigation from "@/components/Navigation";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { BadgeCheck, BookOpen, Code, Database, Trophy } from "lucide-react";
+import { BadgeCheck, BookOpen, Code, Database, Trophy, Mail, Phone } from "lucide-react";
 
 const Index = () => {
   return (
